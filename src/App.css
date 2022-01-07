@@ -1,0 +1,13 @@
+@font-face {
+  font-family: quantum;
+  src: url(./fonts/Quantum.otf);
+}
+@font-face {
+  font-family: Open Sans;
+  src: url(./fonts/OpenSans/OpenSans-Regular.ttf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
